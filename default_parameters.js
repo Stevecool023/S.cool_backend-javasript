@@ -7,3 +7,6 @@ console.log(multiply(5, 2));
 
 console.log(multiply(5));
 /* Expected output: 5 */
+
+console.log(multiply(5, undefined));
+/* Expected output: 5 */
